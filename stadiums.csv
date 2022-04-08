@@ -1,0 +1,589 @@
+id;name;country_code;city;address;lat;long;capacity;image
+62256;Marienlyst;NOR;Drammen;Knoffsgt;59.7344111;10.2013194;6545.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62256.jpg
+250001811;Nagyerdei Stadion;HUN;Debrecen;Nagyerdei Park 12;47.549444;21.638889;20453.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001811.jpg
+76106;Helsinki Football Stadium;FIN;Helsinki;Urheilukatu 5;60.186969;24.927181;9986.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/76106.jpg
+250002442;Estadio de San Mamés;ESP;Bilbao;Luis Briñas Kalea 7;43.263493;-2.948152;53000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002442.jpg
+1100112;Arena Khimki ;RUS;Khimki;Khimki;55.903806;37.456512;18636.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100112.jpg
+250001180;Arena Lviv;UKR;Lviv;199, Stryiska street;49.775278;24.027778;34725.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001180.jpg
+87341;Arena Herning;DEN;Herning;Kaj Zartows Vej 5;56.1169028;8.9516889;10082.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/87341.jpg
+66333;Hibernians Stadium;MLT;Corradino - Paola;Corradino;35.8829194;14.5131028;2978.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66333.jpg
+64475;Tengiz Burjanadze Stadium ;GEO;Gori;5, Guramishvili Street;41.9830944;44.1038167;4107.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64475.jpg
+1100037;District Sport Complex;MDA;Orhei;Scrisului latin street 13;47.3744278;28.8192417;3300.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100037.jpg
+76106;Helsinki Football Stadium;FIN;Helsinki- Finland;Urheilukatu 5;60.186969;24.927181;9986.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/76106.jpg
+250000801;Pod Malim brdom;MNE;Petrovac;Pod Malim brdom;42.203591;18.945928;1403.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000801.jpg
+63142;Stjörnuvöllur;ISL;Gardabaer;Flatir;64.087383;-21.929115;1040.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63142.jpg
+250002708;KAA Gent Stadium;BEL;Ghent;Ottergemsesteenweg Zuid 808;51.016111;3.734167;20175.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002708.jpg
+250001761;Sammy Ofer Stadium;ISR;Haifa;4;32.783128;34.965079;30874.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001761.jpg
+66333;Hibernians Stadium;MLT;Paola;Corradino;35.8829194;14.5131028;2978.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66333.jpg
+65003;Turner Stadium;ISR;Beer Sheva;Yehuda Halevi Street;31.2538028;34.7859639;16363.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65003.jpg
+250001140;Stadion Stožice;SVN;Ljubljana;Vojkova 1000;46.080641;14.52444;15796.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001140.jpg
+250003157;Seinäjoki Stadium;FIN;Seinajoki;Alaseinäjoenkatu 15;62.782876;22.820236;5672.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003157.jpg
+65011;Stadion Olimp-2;RUS;Rostov-on-Don;Sholokhova Ave 31/6a;48.7122889;44.5071278;15365.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65011.jpg
+250002287;Stadionul Marin Anastasovici;ROU;Giurgiu;Aleaa Fabrica de Zahăr 60 ;43.895191;25.982112;8083.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002287.jpg
+250001051;Dublin Arena;IRL;Dublin;Lansdownde road;53.335691;-6.228819;51700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001051.jpg
+250002940;OL Stadium;FRA;Décines;10, Avenue Simone Veil;45.765;4.982;58921.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002940.jpg
+250002906;CSKA Arena;RUS;Moscow;3-ya Peschanaya ulitsa 2 строение 18;55.791389;37.516111;30114.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002906.jpg
+63328;Leicester City Stadium;ENG;Leicester;Filbert Way;52.6203639;-1.1422361;32273.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63328.jpg
+250003133;Beşiktaş Park;TUR;Istanbul;Kadırgalar Caddesi 1 b;41.040268;28.994417;42000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003133.jpg
+63817;National Stadium of Wales;WAL;Cardiff;Westgate Street;51.4783389;-3.1825806;74260.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63817.jpg
+250003317;Stadiumi Olimpik Adem Jashari;KOS;Mitrovica;Mitrovicë 40000;42.889265;20.867777;16300.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003317.jpg
+83174;Estádio Algarve;POR;Faro-Loulé;Av. Eusébio da Silva Ferreira;37.0882972;-7.9747528;21682.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83174.jpg
+250002873;Stadion HNK Rijeka;CRO;Rijeka;Rujevica 10;45.346535;14.405458;8191.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002873.jpg
+87918;Sloka;LVA;Jurmala;Skolas street 5;56.9496167;23.6101639;2500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/87918.jpg
+92802;Wiklöf Holding Arena;FIN;Mariehamn;;60.1027111;19.9344611;1643.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92802.jpg
+66296;Stadion Mladost;MKD;Strumica;City Park bb;41.4460167;22.6379139;5655.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66296.jpg
+250002861;Central Stadium Hagi Academy;ROU;Ovidiu;DN3C;44.235894;28.564194;4545.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002861.jpg
+250002059;GRAND STADE DE NICE;FRA;Nice;Boulevard des Jardiniers;43.705;7.1926;35286.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002059.jpg
+250002631;İstanbul Başakşehir Fatih Terim Stadyumu;TUR;Istanbul;Başak Mh.;41.122889;28.808583;17156.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002631.jpg
+250000352;Rhein-Neckar-Arena;GER;Sinsheim;Dietmar-Hopp-Str. 1;49.238188;8.887987;25568.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000352.jpg
+85442;RB Arena;GER;Leipzig;Am Sportforum 3;51.3457333;12.3481806;41416.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85442.jpg
+250002409;Stadion Spartak;RUS;Moscow;Volokolamskoe shosse, bld. 69;55.8175;37.435556;45496.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002409.jpg
+250002745;Bakı Olimpiya Stadionu;AZE;Baku;Heydər Əliyev prospekti;40.429766;49.91979;68700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002745.jpg
+250000161;Futbolo stadionas Marijampolėje;LTU;Marijampole;Kauno str. 125;54.5684917;23.3632056;6523.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000161.jpg
+250002289;Puskás Akadémia Pancho Aréna;HUN;Felcsut;Fő u. 176.;47.465079;18.587255;3800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002289.jpg
+250003927;Tottenham Hotspur Stadium;ENG;London;Bill Nicholson Way, 748 High Road;51.603212;-0.065739;62062.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003927.jpg
+250003320;Stadiumi Fadil Vokrri;KOS;Pristina;Rr. Enver Zymberi;42.66311;21.157107;12629.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003320.jpg
+80677;Suduva;LTU;Marijampole;Sporto str. 1;54.568525;23.3631917;3000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/80677.jpg
+250003855;Národný futbalový štadión ;SVK;Bratislava;Viktora Tegelhoffa 4;48.17758;17.154043;22568.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003855.jpg
+250001872;Friends Arena;SWE;Solna;Råsta Strandväg 1;59.3725;18.0;50573.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001872.jpg
+250000739;Municipal Stadium in Gliwice ;POL;Gliwice;Stefana Okrzei 20;50.301858;18.694201;9913.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000739.jpg
+250001472;Netanya Stadium;ISR;Netanya;HaMehkar Street 2;32.294379;34.864495;13567.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001472.jpg
+250003123;Stadium Krasnodar;RUS;Krasnodar;str. Razvedchika Leonova, 1;45.042481;39.037554;35179.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003123.jpg
+63409;Stadion der Stadt Linz;AUT;Linz;Ziegeleistrasse;48.2933361;14.2763861;13842.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63409.jpg
+250003363;Gazprom Arena;RUS;St Petersburg;Futbolnaya alleya 1, bldg.1 ;59.972953;30.220533;59960.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003363.jpg
+250001580;Stade Pierre Mauroy;FRA;Villeneuve d'Ascq;261 Boulevard de Tournai;50.611911;3.130503;49966.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001580.jpg
+73524;Centre Sportif de Colovray;SUI;Nyon;Route de Genève 37;46.3714028;6.2287;690.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/73524.jpg
+64408;GOSK Brestskiy;BLR;Brest;Gogolya street 9;52.0898917;23.6838722;10165.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64408.jpg
+250001108;Cardiff City Stadium;WAL;Cardiff;;51.474537;-3.200818;33322.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001108.jpg
+63161;við Djúpumýru;FRO;Klaksvik;við Djúpumýru;62.2249333;-6.5797556;1150.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63161.jpg
+250003909;Arena Kombëtare;ALB;Tirana;Sheshi Italia 1;41.3184028;19.8239528;21160.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003909.jpg
+65062;Stadion Celje;SVN;Celje;Opekarniska cesta 15;46.2464694;15.2699694;13059.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65062.jpg
+64432;Stadion Zagreb;CRO;Zagreb;Kranjčevićeva ulica 4 ;45.804669;15.960817;3690.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64432.jpg
+250003355;AEK Arena;CYP;Larnaca;United Nations;34.927107;33.59784;7680.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003355.jpg
+63209;Roazhon Park;FRA;Rennes;111 route de Lorient;48.1075861;-1.7129806;29241.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63209.jpg
+250000969;Estadio Alfredo Di Stefano;ESP;Madrid;Camino de Sintra, s/n;40.476987;-3.614202;5797.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000969.jpg
+63185;Stadio di Bergamo;ITA;Bergamo;Piazzale Gosis, 7;45.70915;9.6807167;19680.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63185.jpg
+250004078;Puskás Aréna;HUN;Budapest;Istvánmezei u. 3-5;47.503111;19.098024;65014.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250004078.jpg
+63267;"""Niko Dovana"" Stadium";ALB;Durres;"Lagjia Nr 18 Rruga ""Aleksander Goga"" Durres";41.3261694;19.4498444;12080.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63267.jpg
+92011;Emile Mayrisch;LUX;Esch-sur-Alzette;Rue du stade;49.492025;5.9897694;1560.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92011.jpg
+63117;Aspmyra;NOR;Bodø;Fridtjof Nansens vei 3-7;67.2767083;14.3844028;6418.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63117.jpg
+63579;Park Avenue;WAL;Aberystwyth;Park Avenue;52.4104806;-4.0809556;606.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63579.jpg
+250001301;Sheriff Small Arena;MDA;Tiraspol;Karl Libkneht str.;46.8403667;29.5578861;9193.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001301.jpg
+65060;Mestni stadion Fazanerija;SVN;Murska Sobota;Kopališka ulica 45;46.6686167;16.1574694;4506.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65060.jpg
+65082;Stadion FK Čukarički d.o.o.;SRB;Belgrade;Beogradskog bataljona 25;44.7727167;20.4216056;4091.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65082.jpg
+250003111;Weststadion;AUT;Vienna;Gerhard-Hanappi-Platz 1;48.197412;16.26562;23958.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250003111.jpg
+70584;Stade de France;FRA;Saint-Denis;ZAC du Cornillon Nord;48.9245472;2.3600667;81286.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/70584.jpg
+83487;Stadion Salzburg;AUT;Salzburg;Stadionstrasse 1;47.8162861;12.9981972;30188.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83487.jpg
+75533;Stadium Lille Métropole (old stadium);FRA;Lille Métropole;Avenue de la Chatellenie;50.6311472;3.1375444;17804.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/75533.jpg
+63228;Reyno de Navarra;ESP;Pamplona;c/ Sadar, SN;42.7966472;-1.636975;19850.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63228.jpg
+93415;Arsenal Stadium;ENG;London;Queensland road;51.555141;-0.108479;60704.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/93415.jpg
+1100039;Poladi Stadium;GEO;Rustavi;5 Mshenebelta str.;41.5410472;45.0068833;4657.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100039.jpg
+62907;Gradski Stadion Podgorica;MNE;Podgorica;Vaka Durovica 2;42.4455611;19.2643444;11563.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62907.jpg
+62265;San Marino Stadium;SMR;Serravalle;Via Rancaglia 30;43.9712528;12.4769694;4798.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62265.jpg
+66261;Goce Delcev;MKD;Prilep;Ul. aleksandar Makedonski bb.;41.3438639;21.5620694;5684.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66261.jpg
+72073;Športni park Domžale;SVN;Domzale;Kopaliska 4;46.1369472;14.6019056;2854.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/72073.jpg
+63518;Shamrock Park;NIR;Portadown;Brownstown road;54.416078;-6.458578;2434.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63518.jpg
+57811;San Nicola;ITA;Bari;Stada Torrebella;41.0848083;16.8399361;58120.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57811.jpg
+57794;Fritz-Walter-Stadion;GER;Kaiserslautern;Fritz-Walter-Str. 1;49.4347194;7.77645;47103.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57794.jpg
+57770;Stadio Luigi Ferraris;ITA;Genoa;Corso A. de Stefanis;44.4164;8.9524806;36348.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57770.jpg
+63551;Stadion Zaglebia;POL;Lubin;Marii Sktodowskiej - Curie 98;51.4141583;16.1980583;15840.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63551.jpg
+62565;Tsirion Stadium;CYP;Limassol;P.O. Box 50217;34.7009806;33.0229111;13000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62565.jpg
+62072;Flamurtari;ALB;Vlora;"L. ""PAVARESIA""";40.4559222;19.4889778;5600.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62072.jpg
+63035;Ivaylo;BUL;Veliko Tarnovo;Rayon Zapaden;43.0773083;25.6203083;5000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63035.jpg
+64534;Ostseestadion;GER;Rostock;;54.0849806;12.0951222;20500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64534.jpg
+62725;Narodna Armija;BUL;Sofia;;42.6841556;23.3397917;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62725.jpg
+70079;Toftir Stadium;FRO;Toftir;Svangaskarð 10;62.159994;-6.7886;2000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/70079.jpg
+63807;Bežigrad;SVN;Ljubljana;Vodovodna 20;46.0692556;14.5086583;8107.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63807.jpg
+64460;Rannavärava;EST;Tallinn;;59.4272528;24.8000139;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64460.jpg
+77522;Skonto Stadions;LVA;Riga;Hanzas iela 12;56.961378;24.116383;7146.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/77522.jpg
+55211;Ramat Gan National Stadium;ISR;Tel Aviv;299 Aba Hillel St;32.1002833;34.8241611;11000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/55211.jpg
+63173;Stade de Tourbillon;SUI;Sion;Rue des Echutes 38;46.2333528;7.3759194;9086.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63173.jpg
+65007;Peschanoe;RUS;Moscow;;55.7912722;37.5596806;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65007.jpg
+63805;Žalgiris;LTU;Vilnius;3/19 Rinktines str.;54.6934833;25.2901528;14970.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63805.jpg
+62723;Jules George;BEL;Rocourt;;50.6601889;5.5273389;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62723.jpg
+52866;Ruhrstadion;GER;Bochum;Castroper Strasse 145;51.4898778;7.236525;16756.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/52866.jpg
+64559;Aukštaitija;LTU;Panevezys;Str. Jaksto 1;55.7391778;24.3594417;6700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64559.jpg
+63816;Daugava Liepāja;LVA;Liepaja;Jurmalas Parks 3;56.5029778;20.9951611;4041.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63816.jpg
+62703;Republika;MDA;Chisinau;str. Tighina 12;46.9803028;28.8669139;7687.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62703.jpg
+63570;Cwmbran;WAL;Cwmbran;Henlyss Way;51.6429333;-3.0200806;7700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63570.jpg
+63480;Teddy Stadium;ISR;Jerusalem;Godat Sport Beitar St. Malche;31.7511444;35.1909694;32000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63480.jpg
+62218;Turner's Cross;IRL;Cork;Curragh Road;51.8858;-8.4677361;7031.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62218.jpg
+63170;Brügglifeld;SUI;Aarau;;47.3917444;8.0489917;1183.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63170.jpg
+77941;Tampere Stadion;FIN;Tampere;Ratinan Rantatie 1;61.4927611;23.7641444;16800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/77941.jpg
+57672;Råsunda;SWE;Solna;Box 1257;59.3627111;17.9962972;35572.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57672.jpg
+62220;Bishopstown;IRL;Cork;;51.8747333;-8.5480028;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62220.jpg
+64434;Stadion Střelnice;CZE;Jablonec nad Nisou;U stadionu 4904/5;50.7149028;15.1622556;6325.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64434.jpg
+63482;Kiryat Eliezer;ISR;Haifa;6th lisin street;32.8273389;34.9814694;14002.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63482.jpg
+63154;Silkeborg Stadium;DEN;Silkeborg;Stadion Allé 14;56.1579056;9.5532528;5406.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63154.jpg
+66531;Stadio Nereo Rocco;ITA;Trieste;Via dei Macelli 5;45.6225722;13.7928944;26145.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66531.jpg
+63486;Bloomfield Stadium;ISR;Tel Aviv;Sheerit Israel 3;32.0518111;34.7614806;29120.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63486.jpg
+63313;Antonis Papadopoulos Stadium;CYP;Larnaca;Antonis Papadopoulos str.1;34.9373667;33.6207722;9199.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63313.jpg
+63147;Aalborg Stadion;DEN;Aalborg;Harald Jensens Vej 9;57.0437333;10.0213639;11689.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63147.jpg
+64428;Stadion Kantrida;CRO;Rijeka;Portic 3;45.339214;14.380936;10259.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64428.jpg
+57798;BVB Stadion Dortmund;GER;Dortmund;Strobelallee 50;51.4925889;7.4517722;66099.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57798.jpg
+63321;Ewood Park;ENG;Blackburn;Blackburn, Lancashire;53.7286472;-2.4891889;30940.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63321.jpg
+62690;Stadion Lokomotiv;RUS;Moscow;125  B. Cherkizovskaya Str.;55.8036194;37.7410917;27320.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62690.jpg
+65004;Republican Stadium Spartak;RUS;Vladikavkaz;Schmulevich - Street 6;43.0230667;44.6949694;30150.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65004.jpg
+62418;Stade Abbé-Deschamps;FRA;Auxerre;Route de Vaux;47.7792806;3.6008472;20433.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62418.jpg
+63269;Tofiq Bahramov adına Respublika Stadionu;AZE;Baku;F. Khoyski st. 98a;40.3973806;49.8523917;31200.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63269.jpg
+65052;Lokomotiva Košice;SVK;Košice;cermelska 1;48.7408306;21.2444778;9000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65052.jpg
+62099;Kadrioru staadion;EST;Tallinn;Roheline Aas 24A;59.4347111;24.7833361;5000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62099.jpg
+66302;Sileks;MKD;Kratovo;;42.0808167;22.1640778;3000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66302.jpg
+63366;Yunost;BLR;Mozyr;Yanka Kupaly Str. 26a;;;5330.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63366.jpg
+63124;Pori Stadium;FIN;Pori;Metsamiehenkatu 19;61.4769417;21.7746806;2350.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63124.jpg
+87414;Siauliai central stadium;LTU;Šiauliai;Daukantal 23;55.9368528;23.2956778;2000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/87414.jpg
+63801;Stadion Ljudski vrt;SVN;Maribor;Mladinska ulica 29;46.5625972;15.6405667;11709.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63801.jpg
+63567;Jenner Park;WAL;Barry;Barry Road;51.4109389;-3.26555;2375.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63567.jpg
+63465;BayArena;GER;Leverkusen;Bismarckstrasse 122-124;51.0382333;7.0022361;29542.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63465.jpg
+62098;St James' Park;ENG;Newcastle;Newcastle Upon Tyne;54.9755444;-1.6216361;52404.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62098.jpg
+63369;Herman Vanderpoorten;BEL;Lier;Voetbalstraat 4;51.1442444;4.5738028;9759.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63369.jpg
+63187;Stadio Ennio Tardini;ITA;Parma;Viale Partigiani d'Italia 1;44.7949806;10.338325;23324.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63187.jpg
+63418;Jules Ottenstadion;BEL;Ghent;Bruiloftstraat 42;51.0313972;3.7660194;12585.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63418.jpg
+65736;FK Obilic Stadium;SRB;Belgrade;Gospodara Vucica br. 189;44.7916056;20.4946639;4410.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65736.jpg
+63047;Stadion Lazur;BUL;Burgas;"ulitsa ""Vasil Petleshkov"" 82-86";42.5125;27.470278;19004.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63047.jpg
+63510;Solitude;NIR;Belfast;Cliftonville Street;54.619561;-5.947292;3054.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63510.jpg
+63365;Ganja City;AZE;Ganca;Str. Soflu 92a;40.7061194;46.3620194;8000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63365.jpg
+63798;Vsesportovny areal;SVK;Košice;;48.7408806;21.2444583;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63798.jpg
+63138;Hásteinsvöllur;ISL;Vestmannaeyjar;900 Vestmannaeyjar;63.4394194;-20.2879667;990.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63138.jpg
+63439;City Stadium Lovech;BUL;Lovech;5 Koubrat Street;43.1430639;24.7248306;8140.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63439.jpg
+62721;Stadion Graz Liebenau;AUT;Graz;Stadionplatz 1;47.0461472;15.4544028;15323.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62721.jpg
+72101;Arena Garibaldi;ITA;Pisa;Via Rosmini;43.7254528;10.4001583;9942.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/72101.jpg
+92003;Saint-Symphorien;FRA;Longeville-lès-Metz;;49.1098;6.1594556;28992.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92003.jpg
+63207;Stade Bollaert-Delelis;FRA;Lens Agglo;Avenue Alfred Maes;50.4328336;2.815;33825.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63207.jpg
+66295;Cair;MKD;Skopje;St. Kemal Sejfula 4;42.0155861;21.4446917;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66295.jpg
+63159;Gundadalur;FRO;Torshavn;Vestari Ringvegur;62.019505;-6.778692;2000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63159.jpg
+62232;Richmond Park;IRL;Dublin;125 Emmet road - Inchicore;53.341075;-6.3167444;2803.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62232.jpg
+80550;Giulesti - Valentin Stanescu;ROU;Bucharest;Calea Giulesti 18, sector 6;44.4559806;26.0567917;10492.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/80550.jpg
+64410;Spartak;BLR;Mogilev;Leninskaya str, 50 b;53.9053778;30.3407972;7562.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64410.jpg
+83441;Tsentralniy;KAZ;Kostanay;1 May str. 153;53.2259556;63.6365861;8645.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83441.jpg
+63243;Estadi Comunal;AND;Andorra la Vella;Avenue  Salou nº20;42.501276;1.513925;1504.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63243.jpg
+66293;Ventspils OC;LVA;Ventspils;Sporta Street 7/9;57.388275;21.5717583;3200.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66293.jpg
+1100040;Borås Arena;SWE;Boras;Ålgårdsvägen 32;57.7344194;12.9347556;10002.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100040.jpg
+1100036;KRC Genk Arena;BEL;Genk;Stadionplein 4;51.005025;5.5333028;20291.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100036.jpg
+63215;Stadium de Toulouse;FRA;Toulouse;Allée Gabriel Biénès;43.583261;1.434;33100.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63215.jpg
+74748;Stebonheath Park;WAL;Llanelli;Penallt Road ;51.6838667;-4.1475722;983.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/74748.jpg
+85205;City Stadium;ARM;Abovyan;Nairyan Street 1;40.2684278;44.6352667;4400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85205.jpg
+66178;Stadion Bilino polje;BIH;Zenica;Bulevar Kulina Bana bb;44.2057944;17.9071889;13079.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66178.jpg
+67830;TJ Senec Montostroj;SVK;Senec;;48.2175306;17.4113972;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/67830.jpg
+53487;Estádio D. Afonso Henriques;POR;Guimaraes;Praça 26 de Maio, nº1;41.4458917;-8.3012;29600.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53487.jpg
+87790;Stadionul Dr. Constantin Rădulescu;ROU;Cluj-Napoca;Str. Romulus Vuia nr 23;46.7796472;23.5775028;17566.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/87790.jpg
+77338;Centenary Stadium;MLT;Ta' Qali;Ta' Qali;35.8948111;14.4151611;1746.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/77338.jpg
+1100218;Stadio di Montecchio;SMR;San Marino;Strada di Montecchio 17;44.00305;12.43035;543.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100218.jpg
+63553;Stadion Ludowy;POL;Sosnowiec;ul. Kresowa 1;50.2839;19.1211972;5100.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63553.jpg
+250000341;Telenor Arena;NOR;Oslo;Wideroveien 1;59.9032639;10.6240028;12484.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000341.jpg
+63094;Fredriksskans IP;SWE;Kalmar;Fredriksskansgatan 6;56.6696028;16.3601333;10557.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63094.jpg
+250000012;Sivas 4 Eylül Stadyumu;TUR;Sivas;Istasyon street 4 Eylul sports complex;39.7412056;37.0031889;15060.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000012.jpg
+71687;FC Twente Stadion;NED;Enschede;Colosseum 65;52.2365611;6.8377;30250.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/71687.jpg
+1100112;Arena Khimki ;RUS;Moscow;Khimki;55.903806;37.456512;18636.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100112.jpg
+63610;Dan Paltinisanu;ROU;Timisoara;Strada Aries street n°1;45.7404556;21.2442444;32827.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63610.jpg
+55211;Ramat Gan National Stadium;ISR;Ramat Gan;299 Aba Hillel St;32.1002833;34.8241611;11000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/55211.jpg
+250000018;Kybunpark;SUI;St Gallen;Zurcher Strasse 464;47.4070194;9.3041861;17152.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000018.jpg
+83488;VfL Wolfsburg Arena;GER;Wolfsburg;In den Allerwiesen 1;52.4253861;10.7993194;26244.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83488.jpg
+85073;Centralniy Stadion;RUS;Kazan;Tashayak Str. 2A;55.7968;49.0990083;25400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85073.jpg
+92804;AZ Stadion;NED;Alkmaar;Stadionweg 1;52.6127972;4.7422361;19500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92804.jpg
+250000351;Park Hall;WAL;Oswestry;4 Burma road;52.875869;-3.026306;1000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000351.jpg
+63133;Töölo Football Stadion*;FIN;Helsinki;Urheilukatu 1;60.1698722;24.9384222;10770.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63133.jpg
+85534;Estádio Municipal de Braga;POR;Braga;Rua de S. Martinho - Dume;41.5625056;-8.4297861;30286.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85534.jpg
+63290;Bursa Atatürk;TUR;Bursa;;40.1927389;29.04855;26371.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63290.jpg
+250000431;Donbass Arena;UKR;Donetsk;189e Cheluskintsev st;47.9947056;37.7857889;52667.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000431.jpg
+1100043;Wembley Stadium;ENG;London;Wembley;51.5558417;-0.2795972;87360.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/1100043.jpg
+250000422;Tallaght Stadium;IRL;Dublin;Whitestown Way;53.283511;-6.373739;7926.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000422.jpg
+64478;David Abashidze Stadium;GEO;Zestaponi;2 Staroselsky str.;42.1116361;43.0258;4558.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64478.jpg
+250000302;Malmö New Stadium;SWE;Malmo;Eric Perssons väg;55.5860944;12.9892472;20400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000302.jpg
+63021;Skënderbeu Stadium;ALB;Korca;"Bulevardi ""Rilindasit"" Rr: Kristaq Papargjiri";40.6267111;20.7824806;5800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63021.jpg
+80676;Wörthersee Stadion;AUT;Klagenfurt;Südring 207;46.608945;14.277495;29863.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/80676.jpg
+64439;Stadion města Plzně;CZE;Plzen;Struncovy sady 3;49.7500583;13.3854833;11354.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64439.jpg
+88142;Stadionul Zimbru;MDA;Chisinau;45 Dacia b-d;46.9803278;28.8680861;10104.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/88142.jpg
+62516;Sóstói Stadion;HUN;Szekesfehervar;Csikvari street 10;47.1743278;18.4152639;14674.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62516.jpg
+74839;Gradski Stadion Banja Luka;BIH;Banjaluka;Vladike Platona 6;44.775846;17.198414;10300.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/74839.jpg
+63599;Stadionul Ceahlăul;ROU;Piatra Neamt;str. Eroilor nr. 18;46.9385194;26.3543972;16621.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63599.jpg
+83479;City of Manchester Stadium;ENG;Manchester;Rowsley Street;53.4832028;-2.2003694;54200.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83479.jpg
+250001298;Arena Naţională;ROU;Bucharest;37 Basarabia Blvd. Sector 2 ;44.438192;26.151924;54231.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001298.jpg
+250001297;Dalga Arena;AZE;Baku;Sahil street 25B, Mardakan district ;40.481058;50.145446;6700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001297.jpg
+250001569;Ludogorets Arena;BUL;Razgrad;Vasil Levski, 43;43.534722;26.527222;10260.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001569.jpg
+85240;Shakhter;KAZ;Karagandy;Kazachstan street 1;49.8186194;73.0751194;18125.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85240.jpg
+69168;Sóstói út;HUN;Nyiregyhaza;;47.9704778;21.7129194;10100.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/69168.jpg
+250001179;Stadion Miejski we Wrocławiu;POL;Wroclaw;Al. Śląska 1;51.143056;16.942222;41837.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001179.jpg
+63532;Fir Park Stadium;SCO;Motherwell;Firpark street;55.7803806;-3.9801833;11946.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63532.jpg
+88350;Borussia-Park;GER;Monchengladbach;Hennes-Weisweiler-Allee 1;51.1746056;6.3854417;46279.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/88350.jpg
+250001580;Stade Pierre Mauroy;FRA;Lille Métropole;261 Boulevard de Tournai;50.611911;3.130503;49966.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001580.jpg
+63204;Stade de la Mosson;FRA;Montpellier;Avenue d'Heidelberg;43.6221611;3.8120611;22000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63204.jpg
+250001576;Juventus Stadium;ITA;Turin;Corso Gaetano Scirea 50;45.109444;7.641111;41507.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001576.jpg
+250001355;Ali Sami Yen Spor Kompleksi;TUR;Istanbul;Huzur Mah. 34415 Seyrantepe;41.104728;28.997238;52468.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001355.jpg
+250001815;Stade Municipal de la Ville de Differdange;LUX;Differdange;avenue du Parc des Sports ;49.514308;5.892292;1910.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001815.jpg
+250001476;8 KM Stadionu;AZE;Baku;Bahruz Nuriyev 23 / 97;40.400163;49.944019;10466.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001476.jpg
+64554;Daugavpils Daugava Stadium;LVA;Daugavpils;Jelgavas Iela 7;55.8716806;26.5552333;1150.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64554.jpg
+82955;City Stadium Niksic;MNE;Niksic;Dragova Luka ;42.784899;18.955308;5214.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/82955.jpg
+250000409;Astana Arena;KAZ;Nur–Sultan;Qabanbay Batyr Ave;51.1083;71.402631;29741.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000409.jpg
+79869;Right to Dream Park;DEN;Farum;Farum Park 2;55.8160583;12.3530222;10000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/79869.jpg
+250002365;Victoria Stadium;GIB;Gibraltar;Bayside Road;36.149356;-5.350342;2076.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002365.jpg
+250001960;FFA Academy Stadium;ARM;Yerevan;35/31 Acharyan Street;40.222572;44.560546;1500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001960.jpg
+250002102;Borisov-Arena;BLR;Borisov;Gagarina;54.193056;28.475278;13121.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250002102.jpg
+62712;Slask;POL;Wroclaw;Vl. Oporowska 62;51.0961417;16.9968556;8000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62712.jpg
+62235;The Showgrounds;IRL;Sligo;Knappaghbeg;54.2701583;-8.4871694;4031.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62235.jpg
+63027;Dinamo;RUS;Moscow;Leningradski  Avenue 36;55.7912889;37.5595917;36540.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63027.jpg
+63408;Lehen;AUT;Salzburg;Schumarcherstrasse 14;47.8161972;12.9983083;5273.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63408.jpg
+63089;Örjans Vall;SWE;Halmstad;Laxövagen 3;56.6844556;12.8664083;4500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63089.jpg
+92030;Za Luzánkami;CZE;Brno;;49.2127278;16.6117083;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92030.jpg
+63024;Loro Boriçi Stadium;ALB;Shkoder;2, Rruga Djepaxhijej, Shkodër;42.0706611;19.5065111;15908.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63024.jpg
+63125;Tammelan;FIN;Tampere;Ilmarinkatu 22;61.50035;23.7854806;5040.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63125.jpg
+92058;Nacional;POR;Lisbon;;38.7088417;-9.2608444;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92058.jpg
+62393;Ferenc Puskás Stadion (demolished);HUN;Budapest;Istvànmezei ùt(street) 3-5;47.5030972;19.0981889;25311.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62393.jpg
+63177;Les Charmilles;SUI;Geneva;Chemin des Sports;46.209025;6.1184861;9010.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63177.jpg
+65167;Stadium Essen;GER;Essen;Hafenstraße 97A;51.4860694;6.9780056;11312.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65167.jpg
+63088;Stockholm Arena;SWE;Stockholm;Arenaslingan 14;59.290428;18.084756;30363.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63088.jpg
+250000557;Rapid Sportplatz;AUT;Vienna;;;;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000557.jpg
+63462;Parken;DEN;Copenhagen;P.H. Lings Allé 2;55.7027611;12.572275;38052.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63462.jpg
+91979;Jugoslavenska Narodna Armija;SRB;Belgrade;;44.6887167;20.5158472;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/91979.jpg
+62401;Estadio Santiago Bernabéu;ESP;Madrid;Av. Concha Espina 1;40.4530778;-3.6885194;78346.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62401.jpg
+62710;The Marshall Józef Piłsudski's Municipal Stadium of Legia Warsaw;POL;Warsaw;ul. Lazienkowska 3;52.2205889;21.0404194;30720.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62710.jpg
+63530;Easter Road Stadium;SCO;Edinburgh;12 Albion Place;55.961775;-3.1652944;20421.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63530.jpg
+63395;Anderlecht Stadium;BEL;Brussels;Avenue Théo Verbeeck 2;50.8342306;4.298375;20580.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63395.jpg
+63219;Stade Auguste-Delaune;FRA;Reims;Chaussée Bocquaine;49.2471778;4.0246861;21029.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63219.jpg
+52853;PSV Stadion;NED;Eindhoven;Frederiklaan 10a;51.4416444;5.4673028;35000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/52853.jpg
+57771;Stadio San Siro;ITA;Milan;Piazzale A. Moratti;45.4797849;9.1246561;75817.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57771.jpg
+65164;Ludwigspark;GER;Saarbrucken;Camphauser Strasse;49.2480417;6.9840222;8303.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65164.jpg
+63533;Firhill Stadium;SCO;Glasgow;80 Firhill Road;55.8815583;-4.2695917;10399.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63533.jpg
+57779;Parc des Princes;FRA;Paris;24, rue du Commandant Guilbaud;48.8414333;2.2530333;47801.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57779.jpg
+63453;Szusza Ferenc Stadion;HUN;Budapest;Megyeri ut (street) 13;47.5748972;19.0846167;10717.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63453.jpg
+92050;Stadion Rote Erde;GER;Dortmund;;51.4927972;7.4541806;2950.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92050.jpg
+62396;23 August;ROU;Bucharest;;44.437225;26.1524972;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62396.jpg
+53488;Stade Josy Barthel;LUX;Luxembourg;1, rue du Stade;49.615625;6.1096722;8022.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53488.jpg
+62389;Tehelné Pole (old stadium);SVK;Bratislava;Viktora Tegelhoffa 4;48.163625;17.1367333;29887.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62389.jpg
+57671;As Antas;POR;Porto;Ava. Fernão Magalhães;41.1650639;-8.5873111;47327.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57671.jpg
+57782;San Mamés (old);ESP;Bilbao;C/ Luis Brinas S/N;43.2635083;-2.9484;39713.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57782.jpg
+53104;Maine Road;ENG;Manchester;;53.4538528;-2.2354139;24284.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53104.jpg
+63206;Stade du Ray;FRA;Nice;35 avenue du Ray;43.7233722;7.2587083;18396.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63206.jpg
+57789;Fİ-YAPI Inönü Stadyumu;TUR;Istanbul;Visnezade Mah.;41.0392194;28.9946917;32086.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57789.jpg
+62268;Bulgarska Armiya;BUL;Sofia;3, Dragan Tzankov Blvd.;42.6842639;23.3397694;11026.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62268.jpg
+57796;Ibrox Stadium;SCO;Glasgow;150 Edmiston Drive;55.8532417;-4.3093694;50817.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57796.jpg
+63380;Sportpark Kaalheide;NED;Kerkrade;;50.8608944;6.0387583;2550.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63380.jpg
+62085;Ernst-Happel-Stadion;AUT;Vienna;Meiererstrasse 7     ;48.2071889;16.4205083;49898.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62085.jpg
+62991;Stadio Artemio Franchi;ITA;Florence;Viale Manfredo Fanti 4;43.7817444;11.2827444;43138.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62991.jpg
+57775;Stadio Olimpico;ITA;Rome;Via dei Gladiatori 2;41.9339222;12.4546833;67727.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57775.jpg
+91981;Stadion an der Grünwalder Straße;GER;Munich;;48.1006611;11.5634917;5728.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/91981.jpg
+62073;King Baudouin Stadium;BEL;Brussels;Avenue du Marathon 135;50.8957583;4.3339472;47350.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62073.jpg
+53479;Stadion Rajko Mitić;SRB;Belgrade;Ljutice Bogdana 1a;44.7832028;20.4649167;49450.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53479.jpg
+62091;Natsionalen Stadion Vasil Levski;BUL;Sofia;General Evlogi Georgiev Blvd 38, ;42.6876;23.335369;43230.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62091.jpg
+62421;Hardturm;SUI;Zurich;Hardturmstrasse 321;47.3931083;8.5046444;15666.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62421.jpg
+53106;Old Trafford;ENG;Manchester;Sir Matt Busby Way;53.4630583;-2.2913417;74240.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53106.jpg
+63148;Aarhus Stadium;DEN;Aarhus;Stadion Allé 70;56.2639667;9.5017806;19333.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63148.jpg
+250000571;Nervion;ESP;Seville;;;;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000571.jpg
+62217;Dalymount Park;IRL;Dublin;Phibsborough 7;53.3618944;-6.2750083;2740.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62217.jpg
+63194;Stade Geoffroy Guichard;FRA;Saint-Etienne;14 Rue Paul et Pierre Guichard;45.4608556;4.390125;42000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63194.jpg
+62414;National Football Stadium at Windsor Park;NIR;Belfast;Donegall Avenue;54.5826278;-5.9551778;18434.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62414.jpg
+57674;A Luz (old);POR;Lisbon;;38.7526806;-9.1847056;71376.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57674.jpg
+65181;Otto-Grotewohl;GER;Aue;;50.597725;12.7112278;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65181.jpg
+53100;Friedrich-Ludwig-Jahn-Sportpark;GER;Berlin;Cantianstrasse 24;52.5430694;13.4052472;19708.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53100.jpg
+62074;Bosuil;BEL;Deurne;Oude Bosuilbaan 54 A;51.2324861;4.4718861;14385.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62074.jpg
+63092;NYA Parken;SWE;Norrkoping;Ektorpsgatan 1;58.584325;16.1730389;10250.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63092.jpg
+52855;Olympisch;NED;Amsterdam;;52.3434139;4.8541833;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/52855.jpg
+62094;Evžena Rošického;CZE;Prague;Diskarska 100;50.0808806;14.3838278;19336.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62094.jpg
+91972;Arena Civica;ITA;Milan;;45.4758556;9.1791583;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/91972.jpg
+62412;Renato Dall'Ara;ITA;Bologna;Via Andrea Costa 174;44.492475;11.30955;30790.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62412.jpg
+62415;Estadio Ramón Sánchez-Pizjuán;ESP;Seville;Sevilla Fútbol Club Street - Estadio Ramón Sánchez Pizjuán;37.3841056;-5.9705667;43883.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62415.jpg
+50036;Wankdorf;SUI;Berne;Papiermühlestrasse 71;46.9631611;7.464825;30173.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/50036.jpg
+62076;Stade Maurice Dufrasne;BEL;Liege;Rue de la Centrale 2;50.6099583;5.5432667;27221.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62076.jpg
+63529;Tynecastle Park;SCO;Edinburgh;Gorgie Road;55.9389972;-3.2324556;19852.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63529.jpg
+62092;Stadion Maksimir;CRO;Zagreb;Maksimirska 128;45.8188722;16.0180528;25074.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62092.jpg
+62806;Stade de la Frontière;LUX;Esch-sur-Alzette;Rue Renaudin;49.4860056;5.9770528;1450.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62806.jpg
+92057;Estadio Metropolitano;ESP;Madrid;Av. de Luis Aragonés, 4;40.436147;-3.600571;67872.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92057.jpg
+63554;Polonia;POL;Bytom;;50.3576528;18.8985694;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63554.jpg
+53099;Parkstadion;GER;Gelsenkirchen;;51.5591972;7.0666278;49785.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53099.jpg
+74843;Stadio Olimpico Grande Torino;ITA;Turin;Via Filadelfia 96/B;45.0417639;7.6499917;28177.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/74843.jpg
+67707;Astra;ROU;Ploiesti;19 Sondelor street;44.9261278;25.9995444;4500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/67707.jpg
+62420;Ullevi;SWE;Gothenburg;Ullevigatan;57.7059583;11.9872333;40000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62420.jpg
+62729;Stadion Letná;CZE;Prague;Milady Horákové 1066/98;50.1000389;14.4151306;18673.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62729.jpg
+63448;Hidegkuti Nándor Stadium                          ;HUN;Budapest;Salgótarjáni út 12-14;47.490981;19.106672;5481.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63448.jpg
+62692;Stadion Galgenwaard;NED;Utrecht;Herculesplein 241;52.0783694;5.1457889;23750.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62692.jpg
+87017;Diekman;NED;Enschede;;52.2065861;6.9028667;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/87017.jpg
+57673;José Alvalade (old);POR;Lisbon;Rua Francisco Stromp 2;38.7679778;-9.1733028;47636.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57673.jpg
+250001449;NSC Olimpiyskiy;UKR;Kyiv;55 Velyka Vasylkivska Strasse;50.433439;30.522114;68000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001449.jpg
+64987;"Olympic Athletic Center of Athens ""Spyros Louis""";GRE;Athens;37, Kifissias Avenue;38.0361361;23.7875639;68224.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64987.jpg
+63330;City Ground;ENG;Nottingham;;52.9399306;-1.1328944;30000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63330.jpg
+63039;Lokomotiv;BUL;Sofia;;42.7378528;23.3146528;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63039.jpg
+66282;OSC Metalist;UKR;Kharkiv;Plekhanisvska street 65;49.9808444;36.2614833;39946.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66282.jpg
+63498;Thillenberg;LUX;Differdange;;49.5221917;5.8755389;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63498.jpg
+63377;Haarlem;NED;Haarlem;;52.4101472;4.6487861;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63377.jpg
+63105;Kristiansand;NOR;Kristiansand;Ostre Ringvei 2;58.1789389;8.0338111;3900.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63105.jpg
+63806;Stadion Poljud;CRO;Split;8 Mediteranskih igara 2;43.5194556;16.4317;34150.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63806.jpg
+62104;Boris Paichadze National Stadium Dinamo Arena;GEO;Tbilisi;2, Tsereteli Avenue;41.7229472;44.7897806;54202.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62104.jpg
+63422;Freethiel;BEL;Beveren;Klapperstraat 151 Bis;51.2141694;4.2439278;5191.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63422.jpg
+63208;Stade de La Meinau;FRA;Strasbourg;12, rue de l'Extenwoerth ;48.5601722;7.7548417;24077.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63208.jpg
+63131;Raatti Stadium;FIN;Oulu;Raatintie 2;65.0197306;25.4658194;4380.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63131.jpg
+67787;Kópavogsvöllur ;ISL;Kopavogur;Dalsmára;64.1041472;-21.8968306;1709.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/67787.jpg
+63522;Pittodrie Stadium;SCO;Aberdeen;Pittodrie street;57.159325;-2.0887;20866.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63522.jpg
+63258;Estádio do Bonfim;POR;Setubal;Apartado 132;38.5314;-8.8911861;15053.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63258.jpg
+63559;Szombierki;POL;Bytom;;50.3308389;18.8974333;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63559.jpg
+63199;Stade de la Beaujoire - Louis Fonteneau;FRA;Nantes;41, rue de la gare St-Joseph;47.2560056;-1.5247083;37568.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63199.jpg
+70349;Steffenstrasse;GER;Berlin;;52.5405472;13.4763139;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/70349.jpg
+63497;Stade Jos Haupert;LUX;Niedercorn;;49.5460944;5.9034083;800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63497.jpg
+62718;Viola Park;AUT;Vienna;Horrplatz 1;48.162414;16.386578;14849.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62718.jpg
+53108;Villa Park;ENG;Birmingham;.;52.5091278;-1.8848306;42788.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53108.jpg
+62216;Lissywoolen;IRL;Athlone;Lissywollen, Athlone, Co Westmeath;53.4285139;-7.9198833;2046.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62216.jpg
+83372;Atocha;ESP;San Sebastian;;43.3015028;-1.9737333;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83372.jpg
+63371;Alkmaarderhout;NED;Alkmaar;Sportlaan 1;52.6239528;4.7334889;17000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63371.jpg
+64586;Lokomotiv Stadium;UKR;Simferopol;Pushkin str 46;44.9438861;34.0897056;19978.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64586.jpg
+63450;Rába ETO;HUN;Győr;Nagysándor J. u. 31;47.6958306;17.6637722;13800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63450.jpg
+62417;Johan Cruijff ArenA;NED;Amsterdam;Johan Cruijff Boulevard 1;52.314172;4.94185;55473.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62417.jpg
+53482;Odense Stadion;DEN;Odense;Højstrupvej 7B;55.397775;10.3500361;14014.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53482.jpg
+62398;Stadion FK Partizan;SRB;Belgrade;Humska 1;44.7888528;20.4591;29701.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62398.jpg
+62762;Lahti Stadium;FIN;Lahti;Lahen Urheilukeskus, Salpausselänkatu 1;60.9842;25.6369667;14000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62762.jpg
+62335;Victor Tedesco;MLT;Hamrun;Hamrun Spartans Sports Complex;35.8876222;14.4926917;1200.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62335.jpg
+62088;National Olympic Stadium Dinamo;BLR;Minsk;8, Kirov Str.;53.8952694;27.5598972;21491.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62088.jpg
+63539;Stadion Poznań;POL;Poznan;Bulgarska 17;52.3976861;16.8582806;41609.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63539.jpg
+64444;V Dolicku;CZE;Prague;;50.0670028;14.4542056;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64444.jpg
+63526;Tannadice Park;SCO;Dundee;Tannadice Street;56.4746833;-2.9690028;14023.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63526.jpg
+63144;Víkingsvöllur;ISL;Reykjavik;Traðarland 1;64.1170056;-21.8528;1149.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63144.jpg
+67778;ETO Park Stadion;HUN;Győr;Nagysándor J. U. 31.;47.6959278;17.6637306;13800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/67778.jpg
+63015;Elbasan Arena;ALB;Elbasan;"Bulevardi ""Aqif Pasha"" Lagjia Luigj Gurakuqi, sheshi Ruzhdi Bizhuta, Elbasan";41.116675;20.0919361;12700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63015.jpg
+63201;Stade Chaban-Delmas;FRA;Bordeaux;Place Johnston;44.8293861;-0.5983833;32430.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63201.jpg
+63447;József Bozsik Stadion;HUN;Budapest;Puskas Ferenc u. 1-3;47.4425222;19.1550722;5980.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63447.jpg
+62231;Glenmalure Park;IRL;Dublin;;53.3146972;-6.2474417;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62231.jpg
+65067;Metalurh;UKR;Krivoy Rog;;47.8950972;33.3924694;29488.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65067.jpg
+53483;Lyngby Stadion;DEN;Lyngby;;55.7813444;12.5056194;3111.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53483.jpg
+65016;Stadion Petrovskiy;RUS;St Petersburg;Petrovsky ostrov 2;59.9519528;30.2863361;20758.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65016.jpg
+63137;Akranesvöllur;ISL;Akranes;Jadarsbakkar;64.3176889;-22.0599056;1002.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63137.jpg
+57951;Marc'Antonio Bentegodi;ITA;Verona;Piazzale Olimpia;45.435425;10.9683694;32845.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57951.jpg
+63031;Hristo Botev;BUL;Plovdiv;;42.1399056;24.7643833;20350.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63031.jpg
+63030;City Stadium Beroe;BUL;Stara Zagora;;42.4328;25.6152639;11684.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63030.jpg
+63264;Estádio do Rio Ave FC;POR;Vila do Conde;Rua D. Sancho I - Lugar de Casal do Monte;41.3628;-8.7402389;5244.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63264.jpg
+63149;Brøndby Stadion;DEN;Brondby;Brøndby Stadion;55.6490111;12.418775;23804.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63149.jpg
+63496;Stade Henri Dunant;LUX;Beggen;Rue Henri Dunant;49.6463556;6.1351917;830.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63496.jpg
+250000916;Sportforum;GDR;East Berlin;;;;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000916.jpg
+;;;;;;;;
+82886;Atatürk;TUR;Izmir;Halkapınar;38.434864;27.177869;50221.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/82886.jpg
+63107;Åråsen;NOR;Lillestrom;C.J. Hansens vei 7;59.962764;11.063433;10000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63107.jpg
+63176;La Maladière;SUI;Neuchatel;Pierre-à-Mazel 10;46.995225;6.9439583;11997.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63176.jpg
+63799;National Arena Todor Proeski ;MKD;Skopje;Gradski Park bb Skopje;42.0057639;21.4255889;32482.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63799.jpg
+62425;Stadio Diego Armando Maradona;ITA;Naples;Piazzale Tecchio;40.8280889;14.1928694;54732.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62425.jpg
+63277;Alkazar;GRE;Larissa;Parnithos and Kozanis Str.;39.6487528;22.4119778;12986.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63277.jpg
+63312;GSZ Stadium;CYP;Larnaca;P.O. Box 40313;34.9256556;33.5997361;13039.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63312.jpg
+63110;Melløs;NOR;Moss;Nordahl Griegsgt;59.4207583;10.6710111;2470.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63110.jpg
+62426;Racecourse Ground;WAL;Wrexham;Mold Road;53.051975;-3.0038778;9250.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62426.jpg
+53484;Meteor;UKR;Dnipro;27A, Bolshevystskaya st.;48.4355667;35.0055472;24381.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53484.jpg
+250001291;Luzern Arena;SUI;Lucerne;Horwerstrasse 91;47.033264;8.305187;15697.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001291.jpg
+62722;Achter de Kazerne;BEL;Mechelen;Kleine Nieuwedijk 53;51.0374222;4.4864056;8251.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62722.jpg
+63140;Akureyrarvöllur;ISL;Akureyri;Holabraut;65.6773556;-18.1164639;600.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63140.jpg
+63136;Keskusurheilukenttä;FIN;Lahti;;60.9837472;25.6370639;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63136.jpg
+63109;Molde Stadion;NOR;Molde;Julsundvegen 14;62.7333194;7.1478139;11015.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63109.jpg
+64441;Na Stínadlech;CZE;Teplice;Na Stinaldlech 2796;50.6400639;13.8179;18221.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64441.jpg
+62096;Stamford Bridge;ENG;London;Fulham Road;51.4817111;-0.1909861;40311.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62096.jpg
+74569;Estadi Municipal de Son Moix;ESP;Palma de Mallorca;Cami dels Reis s/n;39.5899778;2.6301083;22699.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/74569.jpg
+63244;Estádio do Bessa XXI;POR;Porto;Rua O 1de Janeiro;41.1622667;-8.6424694;26324.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63244.jpg
+63385; Koning Willem II stadion;NED;Tilburg;Goirleseweg 34;51.5428556;5.0667917;14580.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63385.jpg
+70584;Stade de France;FRA;Paris;ZAC du Cornillon Nord;48.9245472;2.3600667;81286.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/70584.jpg
+80412;Gyumri City Stadium;ARM;Gyumri;Ozanyan Str. 6;40.7858083;43.8335722;3000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/80412.jpg
+64556;Darius & Girenas Stadium;LTU;Kaunas;Perkuno Al. 5;54.8973667;23.9371222;15000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64556.jpg
+62428;Marcel Saupin;FRA;Nantes;;47.2132278;-1.5386889;1860.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62428.jpg
+62222;Brandywell;NIR;Derry;Lone Moor Road;54.9908722;-7.336625;3413.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62222.jpg
+65087;Stadion Karadjordje;SRB;Novi Sad;Dimitrija Tucovica 3;45.2469083;19.8422944;12300.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65087.jpg
+91852;Rottal;GER;Pocking;;47.9613417;11.2917694;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/91852.jpg
+63524;Celtic Park;SCO;Glasgow;Celtic Park;55.8496722;-4.2057556;56172.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63524.jpg
+63541;Arena Zabrze;POL;Zabrze;Roosevelta 81;50.2963417;18.768525;24563.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63541.jpg
+62981;Na Litavce;CZE;Pribram;Lazec 60;49.676953;13.976353;7800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62981.jpg
+81537;Stadio Georgios Karaiskakis;GRE;Piraeus;Karaoli Dimitriou and Sofianopoulou;37.94645;23.6643167;32115.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/81537.jpg
+63818;Luzhniki Stadium;RUS;Moscow;24, Luzhniki;55.7157306;37.5536;81015.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63818.jpg
+57781;Estadio Vicente Calderón;ESP;Madrid;Paseo de la Virgen del Puerto;40.4017194;-3.7206222;53482.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57781.jpg
+62693;Eintracht-Stadion;GER;Braunschweig;;52.2900417;10.52135;13092.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62693.jpg
+62726;GSP;CYP;Nicosia;Pancyprion Avenue, Strovolos;35.1145611;33.3628472;22709.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62726.jpg
+62215;Oriel Park;IRL;Dundalk;Carrickmacross Road;53.999075;-6.4165306;2400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62215.jpg
+250000582;Ernst Thälmann;GDR;Karl-Marx-Stadt;;;;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000582.jpg
+70118;Stadion Dynamo im. Valeriy Lobanovskiy;UKR;Kyiv;Grushevskogo Str. 3;50.4504778;30.5350944;16801.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/70118.jpg
+250000402;Olimpijski Stadion Asim Ferhatović Hase;BIH;Sarajevo;Patriotske Lige 35;43.873844;18.408678;34700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000402.jpg
+63255;Selman Stërmasi Stadium;ALB;Tirana;Rruga Muhamet Gjollesha 1;41.3190417;19.8112583;8600.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63255.jpg
+250000015;Hlíðarendi;ISL;Reykjavik;Flugvallarvegur;64.1435944;-21.8789861;1156.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000015.jpg
+62422;Lerkendal Stadion;NOR;Trondheim;Odd Iversens vei 2;63.4125194;10.4048944;21421.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62422.jpg
+62226;Lansdowne Road;IRL;Dublin;Lansdowne road;53.335025;-6.2292083;23574.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62226.jpg
+62308;Štadión Antona Malatinského;SVK;Trnava;Športová 1;48.3738444;17.5916278;18100.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62308.jpg
+63550;City Stadium;POL;Chorzow;Cicha 6 street;50.2882056;18.97295;4211.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63550.jpg
+66194;Yves du Manoir;FRA;Paris;;48.9293389;2.2479417;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66194.jpg
+83235;Veritas Stadion;FIN;Turku;Hippoksentie 6;60.4428833;22.2914806;8072.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83235.jpg
+63618;Francisc Neuman;ROU;Arad;Aurol Vlaicu 36 Street;46.1926861;21.3116;6500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63618.jpg
+62097;Elland Road;ENG;Leeds;Elland Road;53.7778028;-1.5722111;37792.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62097.jpg
+62397;Ullevaal Stadion;NOR;Oslo;Sognsveien 75 J, Seviceboks 1 US;59.9490472;10.7342139;27184.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62397.jpg
+63095;Värendsvallen;SWE;Vaxjo;Hejaregatan;56.8811278;14.771925;4905.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63095.jpg
+74461;Rosenaustadion;GER;Augsburg;;48.355325;10.8760083;5592.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/74461.jpg
+62419;Fenerbahçe Şükrü Saracoğlu Stadyumu;TUR;Istanbul;Fenerbahce Sükrü Saracoglu Stadi;40.9877861;29.0366528;48030.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62419.jpg
+57768;Sant'Elia;ITA;Cagliari;;39.1994167;9.134925;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57768.jpg
+64539;Bökelbergstadion;GER;Monchengladbach;;51.2089361;6.4395861;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64539.jpg
+63157;Gentofte Stadion;DEN;Gentofte;;55.7311583;12.5486417;2364.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63157.jpg
+63134;Kokkola Keskuskenttä;FIN;Kokkola;;63.8420972;23.1227528;2000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63134.jpg
+62236;Kilcohan Park;IRL;Waterford;;52.2414722;-7.1118639;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62236.jpg
+56690;Camp de Mestalla;ESP;Valencia;Avda. de Suecia s/n;39.4746806;-0.3584222;49448.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/56690.jpg
+63500;Stade Achille Hammerel;LUX;Luxembourg;Rue Auguste Lumière;49.6046917;6.1405333;814.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63500.jpg
+62219;Flower Lodge;IRL;Cork;;51.8916361;-8.4369083;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62219.jpg
+63413;Tivoli Old;AUT;Innsbruck;Sillufer 7;47.2560222;11.4112056;3800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63413.jpg
+63653;Plinada;CRO;Split;;43.5195028;16.4317278;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63653.jpg
+63652;Rudolf-Harbig;GER;Dresden;;51.0409917;13.7482694;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63652.jpg
+62875;Olympiastadion;GER;Berlin;Olympischer Platz 3;52.5147139;13.2393972;74244.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62875.jpg
+62663;Ernst-Grube;GER;Magdeburg;;52.125675;11.6707167;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62663.jpg
+63324;Baseball Ground;ENG;Derby;;52.9046306;-1.4686028;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63324.jpg
+62102;Stade de Gerland;FRA;Lyon;89, Allée Pierre de Coubertin;45.7237278;4.8322306;41069.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62102.jpg
+91977;Stadionul 1. Mai;ROU;Pitesti;;44.4232444;24.3503583;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/91977.jpg
+62431;Kupittaa;FIN;Turku;;60.4494278;22.2920972;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62431.jpg
+52848;Olympiastadion;GER;Munich;Spiridon-Louis-Ring 25;48.173125;11.5466;60252.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/52848.jpg
+65064;Stadion Chornomorets;UKR;Odessa;Marazlievskaja street 1;46.480425;30.7553861;27570.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65064.jpg
+63325;Pride Park;ENG;Derby;;52.9149278;-1.4472194;33455.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63325.jpg
+65068;Zaporizhzhya City Stadium;UKR;Zaporizhia;Lobanovskogo street 21;47.8596333;35.0969583;11756.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65068.jpg
+63116;Viking stadion;NOR;Stavanger;Jattavagen 11 A;58.967275;5.712525;16099.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63116.jpg
+63387;Jan Breydelstadion;BEL;Bruges;Olympialaan 74;51.1933556;3.1806222;28222.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63387.jpg
+91941;Kleinholz;SUI;Olten;;47.343475;7.902025;1000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/91941.jpg
+62713;Reymana Stadium;POL;Krakow;Reymonta Street 22;50.0637833;19.911775;34000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62713.jpg
+63098;Kopparvallen;SWE;Atvidaberg;;58.194725;15.9956972;1350.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63098.jpg
+57778;Delle Alpi;ITA;Turin;Strada Al Tessano 131;45.1095472;7.6412806;66979.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57778.jpg
+62093;Makario;CYP;Nicosia;Lefkotheou Street;35.146114;33.314422;9000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62093.jpg
+63605;Ion Oblemenco;ROU;Craiova;9 Stirbei Voda BVD;44.3140778;23.784125;25252.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63605.jpg
+63158;Hvidovre Stadion;DEN;Hvidovre;Sollentuna Alle 1;55.6810306;12.498675;4600.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63158.jpg
+63268;Hrazdan Central Stadium;ARM;Yerevan;Canyon of Hrazdan 4/1;40.1804583;44.4948778;54208.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63268.jpg
+63511;The Showgrounds;NIR;Coleraine;Ballycastle Road 64;55.132839;-6.660192;1607.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63511.jpg
+63278;Kostas Davourlis Stadium;GRE;Patras;;38.2617639;21.7458944;15500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63278.jpg
+57774;Stadio Toumba;GRE;Salonika;Mikras Asias ;40.6138083;22.9723028;29000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57774.jpg
+63424;Edmond Machtens;BEL;Brussels;Rue Charles Malis 61;50.8550583;4.3106194;6740.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63424.jpg
+63129;Urheilupuisto;FIN;Mikkeli;;61.6870722;27.2663861;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63129.jpg
+63288;İzmir Alsancak;TUR;Izmir;Sehitler Cadhesi;38.4372833;27.1506639;15153.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63288.jpg
+250000603;Melavollur;ISL;Reykjavik;;;;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000603.jpg
+63536;Stadion Miejski;POL;Mielec;;50.2986222;21.4358222;5600.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63536.jpg
+63512;Seaview;NIR;Belfast;Cliftonville Street;54.624311;-5.921928;3088.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63512.jpg
+63299;Hüseyin Avni Aker Stadyumu;TUR;Trabzon;inonu Mah Trabzonspor Bulvari;41.0039944;39.7052028;24783.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63299.jpg
+63808;Bazaly;CZE;Ostrava;Bukovanskeho 4/1028;49.8454778;18.2992083;17372.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63808.jpg
+63226;La Rosaleda;ESP;Malaga;Paseo de Martiricos;36.7340917;-4.4264417;30370.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63226.jpg
+79280;Dacia Stadium;MDA;Chisinau;Speia- town;47.009299;29.297683;10000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/79280.jpg
+76093;Bare;BIH;Citluk;Neretvanska b.b.;;;4800.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/76093.jpg
+66166;Gorodskoi;BLR;Borisov;Gagarin str. 46;54.2224833;28.490375;5400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66166.jpg
+63141;KR-völlur;ISL;Reykjavik;Frostaskjöl 2;64.1464028;-21.9668194;1541.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63141.jpg
+65072;Stadium Shakhtar;UKR;Donetsk;Stadionnaya street 34;47.9947028;37.7857972;16826.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65072.jpg
+63091;Olympia;SWE;Helsingborg;Mellersta Stenbocksgatan ;56.0499278;12.7067861;12579.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63091.jpg
+68450;Lia Manoliu;ROU;Bucharest;B-dul Basarabia nr. 37-39;44.4372083;26.1525306;53806.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/68450.jpg
+64483;Ramaz Shengelia Stadium;GEO;Kutaisi;1, str.  Khorava;42.2549778;42.6831528;11883.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64483.jpg
+63564;Wisly;POL;Plock;Lukasiewicza Str. 34;52.5621361;19.6837556;12150.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63564.jpg
+65046;Štadión Pasienky;SVK;Bratislava;Junácka 10;48.1661583;17.1424917;11591.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65046.jpg
+63150;Herfølge;DEN;Herfolge;;55.4136028;12.1341278;3541.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63150.jpg
+53103;Volksparkstadion;GER;Hamburg;Sylvesterallee 7;53.5871556;9.8985528;51750.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53103.jpg
+63229;Estadio Riazor;ESP;La Coruna;C/ Manuel Murguia s/n;43.368775;-8.4173167;32400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63229.jpg
+63381;Abe Lenstra Stadion;NED;Heerenveen;Abe Lenstra Boulevard 19;52.9586056;5.9360361;24320.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63381.jpg
+78014;Republican Stadium after Vazgen Sargsyan;ARM;Yerevan;Vardanants str.  56;40.1719306;44.5256806;14527.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/78014.jpg
+74169;Tórsvøllur;FRO;Torshavn;Gundadalur;62.0191722;-6.7780611;5098.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/74169.jpg
+64962;Tiraspol City;MDA;Tiraspol;21, Mira Street;46.8416639;29.6338694;9000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64962.jpg
+77966;Lilleküla Stadium;EST;Tallinn;Jalgpalli tänav 21;59.4213583;24.7321556;14336.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/77966.jpg
+62429;Cornaredo;SUI;Lugano;Via Trevano 100;46.0237583;8.9612472;3618.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62429.jpg
+63111;Brann Stadion;NOR;Bergen;P.B. 161;60.3669611;5.3574806;16186.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63111.jpg
+71216;Stadion Saturn;RUS;Ramenskoye;City Park;55.5775028;38.2264972;14560.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/71216.jpg
+77379;Grimonprez-Jooris;FRA;Lille;Allée du Petit-Paradis;50.6444333;3.0469583;14435.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/77379.jpg
+79089;Arena AufSchalke;GER;Gelsenkirchen;Arenaring;51.5545417;7.0675694;54740.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/79089.jpg
+67772;GelreDome;NED;Arnhem;Batavierenweg 25;51.9629083;5.8927861;21248.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/67772.jpg
+80548;Sheriff Stadion;MDA;Tiraspol;1/2 K. Libknecht str.;46.8403667;29.5578861;12798.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/80548.jpg
+80608;Kazhimukan Munaytpasov;KAZ;Nur–Sultan;66 Kenesary Street;51.1918472;71.3983806;12500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/80608.jpg
+65053;Štadión MŠK Žilina;SVK;Zilina;Sportova 9;49.229125;18.7447944;11200.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65053.jpg
+63609;Cotroceni;ROU;Bucharest;Str. Dr. Lister 37 - sector 5;44.4278194;26.074875;14562.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63609.jpg
+63421;Fenix (old stadium);BEL;Genk;Stadionplein 4;51.0050333;5.5332917;20687.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63421.jpg
+64435;Stadion u Nisy;CZE;Liberec;Na Hradbách 1300;50.776286;15.050031;9700.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64435.jpg
+63270;Georgios Kamaras Stadium;GRE;Athens;119 Iraklion Ave.;38.0282333;23.7409972;14200.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63270.jpg
+83581;Central Stadium;KAZ;Pavlodar;Lunocharskogo street 50;52.276375;76.949725;11828.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83581.jpg
+83482;Police;BIH;Trebinje;Police 66;42.7088361;18.3528;3000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83482.jpg
+76485;Myyrmäki Stadium;FIN;Vantaa;Raapavuorentie 6;60.260017;24.843018;4320.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/76485.jpg
+63231;ESTADIO ABANCA BALAIDOS;ESP;Vigo;Avda. de Balaídos s/n;42.2220806;-8.7330056;26899.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63231.jpg
+85174;Atatürk Olimpiyat Stadyumu;TUR;Istanbul;Ziya Gökalp, Başakşehir;41.0744694;28.7655667;74753.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85174.jpg
+63234;Estadio de Anoeta;ESP;San Sebastian;Paseo de Anoeta 1;43.3012639;-1.9735944;40000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63234.jpg
+85429;Estádio do Dragão;POR;Porto;Via FC Porto;41.1617944;-8.5836861;50033.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85429.jpg
+73392;Pecara Stadium;BIH;Siroki Brijeg;Fra Didaka Buntica 72;43.3787528;17.597975;5977.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/73392.jpg
+66167;Centralniy Stadion;BLR;Gomel;1, Vosstaniya Sqr;52.4319611;30.9729917;14300.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66167.jpg
+63575;Belle Vue;WAL;Rhyl;Grange Road;53.3189111;-3.4760889;1860.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63575.jpg
+65059;Športni Park;SVN;Nova Gorica;Bazoviška ulica 4;45.9559194;13.6415861;2532.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65059.jpg
+63047;Stadion Lazur;BUL;Bourgas;"ulitsa ""Vasil Petleshkov"" 82-86";42.5125;27.470278;19004.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63047.jpg
+85265;Estádio do SL Benfica;POR;Lisbon;Av. Eusébio da Silva Ferreira;38.751488;-9.188022;64162.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85265.jpg
+85181;RSK Olimpiyskyi;UKR;Donetsk;Cheluskintsev Str;48.0195972;37.8039083;26100.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85181.jpg
+80394;Almaty Ortalyk Stadion;KAZ;Almaty;Satpaev Street 29;43.238494;76.924158;23804.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/80394.jpg
+63494;Stade Jos Nosbaum;LUX;Dudelange;Rue du stade Jos Nosbaum;49.4723861;6.0847472;1546.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63494.jpg
+85211;LFF stadionas;LTU;Vilnius;Liepkalnio 13/Stadiono 2;54.668614;25.294411;5067.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85211.jpg
+73397;Gradski Stadium Mostar;BIH;Mostar;Stjepana Radića 45;43.3456639;17.7952833;8203.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/73397.jpg
+86190;National Training Centre;SVK;Senec;Rybarska 29;48.2175444;17.411275;3264.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/86190.jpg
+62258;Kaplakrikavöllur;ISL;Hafnarfjördur;Kaplakriki;64.0758944;-21.9387028;3050.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62258.jpg
+62852;Stadion Oláh Gábor Út;HUN;Debrecen;Oláh G. ùt.(street)  5;47.5500167;21.6387944;9640.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62852.jpg
+92049;Estadio Benito Villamarín;ESP;Seville;AVDA. DE HELIÓPOLIS, S/N;37.356806;-5.98102;59268.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92049.jpg
+83168;Estádio José Alvalade;POR;Lisbon;Rua Professor Fernando da Fonseca;38.76184;-9.164213;50485.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83168.jpg
+89590;Stadion Wankdorf;SUI;Berne;Papiermühlestrasse 71;46.9631194;7.464875;31536.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/89590.jpg
+63189;Stadio Friuli;ITA;Udine;Piazzale Republica Argentina 3;46.081625;13.2001139;25155.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63189.jpg
+71349;Estadio de la Cerámica;ESP;Villarreal;Avda Blasco Ibanez 2;68.0;105.0;23741.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/71349.jpg
+85441;Fußball Arena München;GER;Munich;Werner-Heisenberg-Allee 25;48.2187944;11.6247306;70000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85441.jpg
+66195;Mikheil Meskhi I Stadium;GEO;Tbilisi;74, Chavchavadze Avenue;41.7098278;44.7462056;25154.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66195.jpg
+63727;Kymenlaakson Sähkö Stadion;FIN;Myllykoski;Kisatie 1;60.7727833;26.7902694;4167.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63727.jpg
+85249;Aktobe Ortalyk Stadion;KAZ;Aktobe;56, Abulkhairkhan-avenue;50.274225;57.238061;12621.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85249.jpg
+63574;Latham Park;WAL;Newtown;Park Lane;52.5115333;-3.322775;1372.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63574.jpg
+88165;City Stadium;CZE;Mlada Boleslav;U Stadionu 1118;50.427015;14.914823;5000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/88165.jpg
+87744;Murrayfield;SCO;Edinburgh;Murrayfield;55.9422611;-3.2410306;67144.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/87744.jpg
+66330;MFK Ružomberok;SVK;Ruzomberok;Zilinská 21;49.0823806;19.2838167;4876.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66330.jpg
+63341;Molineux;ENG;Wolverhampton;Waterlod Road;52.590275;-2.1304861;32049.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63341.jpg
+63218;Robert-Diochon;FRA;Rouen;;49.4111028;1.0706583;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63218.jpg
+57780;La Romareda;ESP;Zaragoza;Paseo de Isabel La Católica 4;41.6366528;-0.9019;33831.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57780.jpg
+53101;Arena Stuttgart;GER;Stuttgart;Mercedesstrasse 87;48.7922694;9.2320083;54697.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53101.jpg
+53102;Waldstadion (old);GER;Frankfurt am Main;;50.0685722;8.645425;30059.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53102.jpg
+81537;Stadio Georgios Karaiskakis;GRE;Athens;Karaoli Dimitriou and Sofianopoulou;37.94645;23.6643167;32115.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/81537.jpg
+62424;Stadion Miejski Łódź;POL;Lodz;Al. J. Pilsudskiego 138;51.7689333;19.4945694;18008.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62424.jpg
+57776;Camp Nou;ESP;Barcelona;Avda. Arístides Maillol 12;41.3808417;2.1227583;98679.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57776.jpg
+62399;Walter-Ulbricht;GER;Berlin;;52.5437306;13.4052528;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62399.jpg
+62876;Väinölänniemi;FIN;Kuopio;;62.8845167;27.6707806;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62876.jpg
+79040;Atletikstadion;DEN;Odense;Hojstrupvej 5;55.411594;10.404625;900.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/79040.jpg
+63382;Sparta Stadion;NED;Rotterdam;Spartapark Noord 1;51.9195306;4.4335611;10625.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63382.jpg
+62853;Weserstadion;GER;Bremen;Franz-Bohmert Strasse 7;53.0664583;8.8375639;37441.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62853.jpg
+52851;Stadion Feijenoord 'De Kuip';NED;Rotterdam;Van Zandvlietplein 1;51.8939056;4.5232;48100.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/52851.jpg
+53107;Highbury;ENG;London;Highbury;51.5577694;-0.1030861;35354.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53107.jpg
+62427;Hampden Park;SCO;Glasgow;.;55.8258583;-4.2519417;51824.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62427.jpg
+63118;Fredrikstad;NOR;Fredrikstad;KG Meldahlsvej 9;59.2194389;10.9282694;10765.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63118.jpg
+250000986;Thomond Park;IRL;Limerick;Cratloe Rd;52.673416;-8.643713;15003.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000986.jpg
+62423;Stadionul Steaua;ROU;Bucharest;Ghencea Blvd, nr. 45;44.4128444;26.0404194;28465.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62423.jpg
+63514;Mourneview Park;NIR;Lurgan;Mourneview Avenue;54.4539361;-6.3366417;2959.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63514.jpg
+62101;Helsinki Olympic Stadium;FIN;Helsinki;Paavo Nurmen tie 1;60.1869611;24.9272583;36251.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62101.jpg
+53480;Malmö Idrottsplats;SWE;Malmo;Pildammsvägen 10;55.5948906;12.9956894;1505.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53480.jpg
+64442;Všesportovní;CZE;Hradec Kralove;Malsovice 473;50.2064139;15.8454306;17000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64442.jpg
+63115;Bislett;NOR;Oslo;Bislettgata 1;59.9251361;10.7334083;15400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63115.jpg
+63322;Turf Moor;ENG;Burnley;Harry Potts Way;53.7889917;-2.2302139;21944.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63322.jpg
+85689;Volksparkstadion;GER;Hamburg;;53.5871778;9.8985944;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/85689.jpg
+62850;Stadio Apostolos Nikolaidis;GRE;Athens;160 Alexandras Avenue;37.9872278;23.7541556;16000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62850.jpg
+63171;St. Jakob-Park;SUI;Basel;St Jakobsstrasse 395;47.5416361;7.620125;36000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63171.jpg
+62086;Gerhard Hanappi Stadion;AUT;Vienna;Keisslerg. 6;48.1980306;16.2659111;17400.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62086.jpg
+83489;Malmö Stadium;SWE;Malmo;John Ericssons vag;55.5860944;12.9892389;15000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83489.jpg
+57795;Max-Morlock-Stadion;GER;Nuremberg;Max Morlock Platz 1;49.4264083;11.1258222;43587.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57795.jpg
+62103;Stade Louis II;FRA;Monaco;7 avenue des Castelans;43.7276;7.4155861;17525.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62103.jpg
+250001189;Juliska Stadium;CZE;Prague;;;;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250001189.jpg
+62400;Silesian Stadium;POL;Chorzow;ul Katowicka 10;50.2882333;18.9729139;54374.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62400.jpg
+62224;Tolka Park;IRL;Dublin;Richmond Road;53.3677056;-6.2518361;3707.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62224.jpg
+66333;Hibernians Stadium;MLT;Corradino;Corradino;35.8829194;14.5131028;2978.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/66333.jpg
+63336;White Hart Lane;ENG;London;Bill Nicholson Way, 748 High Road;51.6033083;-0.0657889;62062.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63336.jpg
+63132;Tehtaan Kenttä;FIN;Valkeakoski;Niementie;61.2679139;24.0205944;3488.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63132.jpg
+64009;Eden Arena;CZE;Prague;Vladivostocka 1460/2;50.067475;14.4714861;19370.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64009.jpg
+63525;Dens Park;SCO;Dundee;Sandeman Street;56.4746444;-2.9736056;11856.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63525.jpg
+63266;Qemal Stafa Stadium;ALB;Tirana;"Sheshi ""italia""";41.3184028;19.8239528;16147.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63266.jpg
+62408;Empire;MLT;Gzira;;35.9025583;14.4927417;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62408.jpg
+64453;Esbjerg Stadion;DEN;Esbjerg;Gl. Vardevej 82;55.4819889;8.4394278;11772.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64453.jpg
+63327;Portman Road;ENG;Ipswich;Portman Road;52.0549694;1.1452889;30311.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63327.jpg
+91975;Müngersdorferstadion;GER;Cologne;;50.9334806;6.8752333;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/91975.jpg
+52867;Rheinstadion;GER;Dusseldorf;;51.0947389;6.8794639;43500.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/52867.jpg
+63155;Vejle Stadion (old);DEN;Vejle;Roms Hule 6;55.714855;9.558706;7559.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63155.jpg
+53105;Wembley (old);ENG;London;;51.5559;-0.2797722;78311.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53105.jpg
+63326;Goodison Park;ENG;Liverpool;Goodison Park;53.4388444;-2.9663111;39264.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63326.jpg
+63175;Stadion Letzigrund;SUI;Zurich;Badenerstrasse 500;47.3828028;8.5037194;24056.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63175.jpg
+64546;Ernst-Abbe Sportfeld;GER;Jena;;50.9160389;11.5829667;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64546.jpg
+250000668;Evagoras;CYP;Famagusta;;;;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/250000668.jpg
+63043;Spartak;BUL;Plovdiv;;42.131675;24.7435889;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63043.jpg
+57791;Nikos Goumas;GRE;Athens;2, Kappadokias;38.0371278;23.7413083;23000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/57791.jpg
+62260;Ferencváros Stadion;HUN;Budapest;Üllói ut. 129;47.4759361;19.0965083;22122.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62260.jpg
+62854;Ali Sami Yen;TUR;Istanbul;Buyukdere Cad. Mecidiyeköy;41.0655222;28.9989389;24098.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62854.jpg
+62337;Stade de Marseille;FRA;Marseille;3 Boulevard Michelet;43.26983;5.396;67363.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62337.jpg
+67799;Flaminio;ITA;Rome;Viale Tiziano 1;41.9269694;12.4722889;24000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/67799.jpg
+62411;Laugardalsvöllur;ISL;Reykjavik;Laugardalur;64.1435667;-21.8790389;9767.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62411.jpg
+62662;Der Hunderettausend;GER;Leipzig;;51.3459278;12.3480417;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62662.jpg
+67971;Kisapuisto;FIN;Lahti;;60.9864472;25.6502278;3000.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/67971.jpg
+63455;Illovszky (Old Stadium);HUN;Budapest;H-1139 Budapest, Fay u. 58.;47.5369833;19.0804806;5145.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63455.jpg
+53109;Anfield;ENG;Liverpool;Anfield Road;53.4308;-2.9608472;54022.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/53109.jpg
+63515;The Oval;NIR;Belfast;Parkgate Drive;54.6029833;-5.8913389;3991.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63515.jpg
+63178;Charrière;SUI;La Chaux-de-Fonds;;47.1112861;6.8362667;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63178.jpg
+64537;Wedaustadion;GER;Duisburg;;51.4090361;6.7787083;12133.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/64537.jpg
+83397;Riverside;NIR;Londonderry;Y.M.C.A Grounds Drumahoe;54.9758194;-7.277225;1399.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/83397.jpg
+92020;Linzer-Stadion auf der Gugl;AUT;Linz;;48.2936917;14.2765611;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/92020.jpg
+65184;Freundschaft;GER;Frankfurt (Oder);;52.3325639;14.5564278;0.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/65184.jpg
+62709;Olympique de la Pontaise;SUI;Lausanne;Route des plaines-du-loup 7;46.5332194;6.624325;15503.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62709.jpg
+62987;Dinamo;ROU;Bucharest;SOS. Stefan Cel Mare, Nr 7-9;44.4551056;26.1024417;16300.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/62987.jpg
+63531;Rugby Park;SCO;Kilmarnock;Rugby Road;55.6045722;-4.5083556;17575.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63531.jpg
+63048;Georgi Asparuhov Stadium;BUL;Sofia;Todorini kukli, 47                           ;42.702909;23.360202;17250.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/63048.jpg
+55236;National Stadium;MLT;Ta' Qali;Crafts Village;35.89485;14.4151056;16942.0;https://img.uefa.com/imgml/stadium/matchinfo/w1/55236.jpg
